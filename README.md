@@ -15,3 +15,5 @@ master에서 변경된 내용
 이건 feature/logout에서 작업한 거야!
 
 이것도 feature/logout에서 작업한 거야
+
+이건 feature/list에서 작업한 거
